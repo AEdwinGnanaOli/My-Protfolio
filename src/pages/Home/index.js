@@ -4,13 +4,17 @@ import Contact from "../Contact";
 import { Banner, Testimonial, Information, Service } from "../../components";
 
 const Home = () => {
+  let add=()=>{
+    
+  }
+  add()
   return (
     <div className="pt-16">
       <Banner />
       <Service />
       <Project />
       {/* <Testimonial /> */}
-      <Information />
+      {/* <Information /> */}
       <Contact />
     </div>
   );
