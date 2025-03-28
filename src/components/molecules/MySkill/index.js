@@ -13,8 +13,7 @@ import {
   SiTailwindcss,
   SiExpress,
   SiMongodb,
-  SiAdobephotoshop,
-  SiFirebase,
+ 
 } from "react-icons/si";
 import man from "../../../assets/man.json";
 
