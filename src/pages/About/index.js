@@ -105,7 +105,8 @@ const About = () => {
                 <span className="mr-2 text-primary">Address : </span>Telungupalayam, Coimbatore
               </h2>
               <a
-                href="https://drive.google.com/file/d/1Du2ThNxm6lyGWmnVPWfaqlpPr4IW5jx6/view?usp=sharing"
+                href=
+                "https://drive.google.com/file/d/1XVGUDk46Uz_pVXOjkQxxwM-kxu_pLaAA/view?usp=sharing"
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">
