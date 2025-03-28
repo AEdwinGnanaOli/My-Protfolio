@@ -37,7 +37,7 @@ const Items = [
     description:
       "🌐 A modern web-based platform built with the powerful MERN stack—MongoDB, Express.js, React.js, and Node.js—designed to connect job seekers with exciting part-time job opportunities.✨ This application focuses on delivering a seamless user experience through an intuitive interface and efficient features, simplifying the job searching and hiring processes for everyone involved.",
     category: "business",
-    liveLink: "https://precious-bonbon-5a346f.netlify.app/",
+    liveLink: "https://part-job-searching.netlify.app/",
     codeLink: "https://github.com/AEdwinGnanaOli/Part-Time-Job-React-Js",
   },
   {
